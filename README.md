@@ -1,4 +1,4 @@
-### Olá sou Henrique
+### Olá sou Henrique Gabriel
 
 - 🔭 desenvolvedor Jr
 - 🌱 estudando JavaScript
