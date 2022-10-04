@@ -1,7 +1,8 @@
-### Olá sou Henrique Gabriel
+### Hey! i'm Henrique
 
-- 🔭 desenvolvedor Jr
-- 🌱 estudando JavaScript
+- Dev Júnior
+- Currently I am coding in JavaScript
+- I like games, codes, movies
 
 <div align="center">
   <a href="https://github.com/liquegba">
