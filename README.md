@@ -33,11 +33,21 @@ console.log({
 
 ---
 
-<div align="center">
-  [![Henriquegba GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henriquegba&show_icons=true&theme=dark&hide=contribs,prs)](https://github.com/Henriquegba)  
-  <br />
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquegba&theme=dark&count_private=true&layout=compact)](https://github.com/Henriquegba?tab=repositories)
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/HenriqueGBA">
+        <img src="https://github-readme-stats.vercel.app/api?username=HenriqueGBA&show_icons=true&theme=dark&hide=contribs,prs" alt="HenriqueGBA GitHub Stats" height="150" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/HenriqueGBA?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGBA&theme=dark&count_private=true&layout=compact" alt="Top Languages" height="150" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
