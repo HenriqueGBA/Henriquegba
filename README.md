@@ -43,7 +43,6 @@ console.log({
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HenriqueGBA&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGBA&theme=tokyonight&layout=compact&langs_count=6&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=HenriqueGBA&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
