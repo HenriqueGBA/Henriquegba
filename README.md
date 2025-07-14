@@ -33,20 +33,14 @@ console.log({
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/HenriqueGBA">
-        <img src="https://github-readme-stats.vercel.app/api?username=HenriqueGBA&show_icons=true&theme=dark&hide=contribs,prs" alt="HenriqueGBA GitHub Stats" height="150" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/HenriqueGBA?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGBA&theme=dark&count_private=true&layout=compact" alt="Top Languages" height="150" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueGBA&show_icons=true&theme=tokyonight&hide=contribs,prs&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGBA&theme=tokyonight&layout=compact&langs_count=6" height="150" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=HenriqueGBA&theme=tokyonight&hide_border=true" height="150"/>
+  
+</div>
 
 
 ---
