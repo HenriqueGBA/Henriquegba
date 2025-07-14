@@ -17,6 +17,9 @@ console.log({
 });
 
 ```
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif">
+</p>
 ### My Skills
 
 <div align="center">
@@ -33,29 +36,21 @@ console.log({
 
 ---
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueGBA&show_icons=true&theme=tokyonight&hide=contribs,prs&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGBA&theme=tokyonight&layout=compact&langs_count=6" height="150" />
-  <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueGBA&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGBA&theme=tokyonight&layout=compact&langs_count=6&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=HenriqueGBA&theme=tokyonight&hide_border=true" height="150"/>
-  
-</div>
+</p>
 
 
 ---
 
 ### Contact
+## 📫 Contato
 
-<div align="center">
-  <a href="https://www.instagram.com/henrique_arcega" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" />
-  </a>
-  <a href="mailto:gabgba90@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/henrique-arcega-690244227/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:gabgba90@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/henrique-arcega-690244227/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/henrique_arcega"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
