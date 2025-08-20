@@ -19,7 +19,7 @@ console.log({
 ```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif"/>
+  <img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif]]" width="300" alt="Coding Gif"/>
 </p>
 
 ---
@@ -53,7 +53,6 @@ console.log({
 <p align="center">
   <a href="mailto:gabgba90@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/henrique-arcega-690244227/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/henrique_arcega"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
