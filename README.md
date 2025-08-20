@@ -17,13 +17,6 @@ console.log({
   contact: "gabgba90@gmail.com"
 });
 ```
-
-<p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWQya2FrZnhwbzk1Y2l5NDhwMmtzZDlsN2F3NmI0aGRqZ3EzOXJiYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NXOF5rlaSXdAc/giphy.gif]" width="300" alt="Coding Gif"/>
-</p>
-
----
-
 ## 🚀 Skills & Technologies
 
 <div align="center">
