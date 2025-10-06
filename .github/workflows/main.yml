@@ -13,7 +13,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: liquegba
+          github_user_name: HenriqueGBA
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
