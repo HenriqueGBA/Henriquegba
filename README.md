@@ -6,7 +6,7 @@
 🚀 Passionate about technology, learning, and building cool projects
 
 ---
-![](https://komarev.com/ghpvc/?username=HenriqueGBA&color=blue)
+
 ## 🧑‍💻 About Me
 
 ```javascript
