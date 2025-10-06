@@ -6,7 +6,7 @@
 🚀 Passionate about technology, learning, and building cool projects
 
 ---
-
+![](https://komarev.com/ghpvc/?username=HenriqueGBA&color=blue)
 ## 🧑‍💻 About Me
 
 ```javascript
@@ -37,6 +37,9 @@ console.log({
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HenriqueGBA&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=HenriqueGBA&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HenriqueGBA&color=blue" height="25"/>
 </p>
 
 ---
