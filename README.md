@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Henrique Gabriel
 
 🎓 Degree in Systems Analysis and Development  
-💻 Trainee Developer at **Myth.dev**  
+💻 Software Developer at **Myth.dev**  
 🏠 Based in Curitiba, Paraná, Brazil  
 🚀 Passionate about technology, learning, and building cool projects
 
