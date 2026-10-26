@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Henrique Gabriel
 
 🎓 Degree in Systems Analysis and Development  
-💻 Software Developer
-🏠 Based in Curitiba, Paraná, Brazil  
+💻 Software Developer     
+🏠 Based in Curitiba, Paraná, Brazil
 🚀 Passionate about technology, learning, and building cool projects
 
 ---
