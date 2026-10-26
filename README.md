@@ -2,7 +2,6 @@
 
 🎓 Degree in Systems Analysis and Development  
 💻 Software Developer
-
 🏠 Based in Curitiba, Paraná, Brazil  
 🚀 Passionate about technology, learning, and building cool projects
 
