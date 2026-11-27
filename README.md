@@ -52,15 +52,16 @@ My main interests are backend development, software architecture, APIs, and the 
 
 ---
 
+
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueGBA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGBA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HenriqueGBA&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGBA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HenriqueGBA&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=HenriqueGBA&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Connect With Me
