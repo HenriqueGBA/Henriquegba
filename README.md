@@ -1,54 +1,92 @@
-# 👋 Hello! I'm Henrique Gabriel
+# Henrique Gabriel Bispo Arcega
 
-🎓 Degree in Systems Analysis and Development  
-💻 Software Developer     
-🏠 Based in Curitiba, Paraná, Brazil     
-🚀 Passionate about technology, learning, and building cool projects
+### Software Developer | Systems Development Instructor at SENAI
 
----
-
-## 🧑‍💻 About Me
-
-```javascript
-console.log({
-  name: "Henrique Gabriel Bispo Arcega",
-  location: "Curitiba, Paraná, Brazil",
-  age: 21,
-  contact: "gabgba90@gmail.com"
-});
-```
-## 🚀 Skills & Technologies
-
-<div align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="35" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="35" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueGBA&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=HenriqueGBA&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HenriqueGBA&color=blue" height="25"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Curitiba%2C%20Brazil-161b22?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-161b22?style=flat" />
+  <img src="https://img.shields.io/badge/Institution-SENAI-161b22?style=flat" />
 </p>
 
+I'm a Software Developer and Systems Development Instructor at SENAI, passionate about building software, solving problems, and exploring AI-powered solutions.
+
+My main interests are backend development, software architecture, APIs, and the integration of artificial intelligence into software engineering.
+
 ---
 
-## 📫 Contact
+## About Me
+
+- 🎓 Degree in Systems Analysis and Development
+- 👨‍🏫 Systems Development Instructor at SENAI
+- 💻 Background in Full Stack and Backend Development
+- 🤖 Interested in AI Engineering and Agentic AI
+- 🌎 Based in Curitiba, Paraná, Brazil
+
+## Tech Stack
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,postgres,mysql,mongodb" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,docker,vscode,visualstudio" />
+</p>
+
+**Artificial Intelligence**
+
+- OpenAI API
+- Agentic AI
+- LangChain
+- Prompt Engineering
+- LLM Evaluation
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <a href="mailto:gabgba90@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/henrique-arcega/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueGBA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGBA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HenriqueGBA&theme=tokyonight&hide_border=true" />
+</p>
+
+## GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HenriqueGBA&theme=tokyonight&no-frame=true&column=4" />
+</p>
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/henrique-arcega/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gabgba90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HenriqueGBA&style=flat&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/HenriqueGBA?style=flat&logo=github&label=Followers" />
 </p>
 
 ---
+
+<p align="center">
+  <i>Building software, sharing knowledge, and exploring what's next.</i>
+</p>
