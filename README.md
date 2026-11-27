@@ -42,14 +42,6 @@ My main interests are backend development, software architecture, APIs, and the 
   <img src="https://skillicons.dev/icons?i=git,github,linux,postman,docker,vscode,visualstudio" />
 </p>
 
-**Artificial Intelligence**
-
-- OpenAI API
-- Agentic AI
-- LangChain
-- Prompt Engineering
-- LLM Evaluation
-
 ---
 
 
