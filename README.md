@@ -63,12 +63,6 @@ My main interests are backend development, software architecture, APIs, and the 
   <img src="https://streak-stats.demolab.com?user=HenriqueGBA&theme=tokyonight&hide_border=true" />
 </p>
 
-## GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HenriqueGBA&theme=tokyonight&no-frame=true&column=4" />
-</p>
-
 ## Connect With Me
 
 <p align="left">
