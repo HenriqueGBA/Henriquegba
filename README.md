@@ -5,7 +5,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Curitiba%2C%20Brazil-161b22?style=flat&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-161b22?style=flat" />
-  <img src="https://img.shields.io/badge/Institution-SENAI-161b22?style=flat" />
+  <img src="https://img.shields.io/badge/Institution-Fiep-161b22?style=flat" />
 </p>
 
 I'm a Software Developer and Systems Development Instructor at SENAI, passionate about building software, solving problems, and exploring AI-powered solutions.
