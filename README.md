@@ -53,7 +53,7 @@ My main interests are backend development, software architecture, APIs, and the 
 </p>
 
 <p align="center">
-  <img width="35%" src="https://streak-stats.demolab.com?user=HenriqueGBA&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=HenriqueGBA&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Connect With Me
